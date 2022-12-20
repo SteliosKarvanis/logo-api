@@ -1,2 +1,3 @@
 # Logo API
-Given a company CNPJ and name, gives a link to the company logo
+
+Given a company's CNPJ and name, provides a link to the company's logo
